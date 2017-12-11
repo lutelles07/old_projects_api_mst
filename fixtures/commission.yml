@@ -1,0 +1,41 @@
+commission_categoy:
+  -
+    trackingId: "40"
+    type: "CATEGORY"
+    value: 2040
+#    sellerId: 1368
+  -
+    trackingId: "42"
+    type: "CATEGORY"
+    value: 2040
+#    sellerId: 1368
+
+commission_freight:
+  -
+    trackingId: "40"
+    type: "FREIGHT"
+    value: 2040
+#    sellerId: 1368
+  -
+    trackingId: "42"
+    type: "FREIGHT"
+    value: 2040
+#    sellerId: 1368
+
+commission_default:
+  -
+    trackingId: "40"
+    type: "DEFAULT"
+    value: 2040
+#    sellerId: 1368
+  -
+    trackingId: "40"
+    type: "DEFAULT"
+    value: 2040
+#    sellerId: 1368
+
+commission_basic:
+    trackingId:
+    type:
+    value:
+    sellerId:

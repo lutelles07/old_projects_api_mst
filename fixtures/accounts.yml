@@ -1,0 +1,23 @@
+accounts:
+  bankName: "Itaú Unibanco S.A."
+  bankSwiftCode: "ITAUBRSP"
+  bankCode: "341"
+  bankAgency:
+    number: "12322"
+    digit: 6 
+  bankCurrentAccount:
+    number: "06052"
+    digit: "2"
+  moipId: "/endereço/conta/moip/@#@!@#$"
+  sellerId:
+
+
+accounts_basic:
+  bankName: "Itaú Unibanco S.A."
+  bankAgency:
+    number: "12322"
+    digit: 6
+  bankCurrentAccount:
+    number: "06052"
+    digit: "2"
+  sellerId:

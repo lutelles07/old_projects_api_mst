@@ -1,0 +1,9 @@
+legacyWithCommission:
+  trackingId: "3gigafox"
+  idCategory: "4710"
+  value: 1700
+
+legacyWithoutCommission:
+  trackingId: "1"
+  idCategory: ""
+  value: 0

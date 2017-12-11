@@ -1,0 +1,104 @@
+seller_complete:
+  description: "Seller Criado por testes automáticos Ahoy"
+  trackingId:
+  companyName:
+  tradingName:
+  active:
+  status:
+  nin:
+    type: 'CNPJ'
+    value:
+  contact:
+  address:
+  commissions:
+  platforms:
+  accounts:
+  policies:
+  contract:
+    startsAt: "2016-09-09"
+    trackingId:
+
+seller_basic:
+  trackingId:
+  companyName:
+  tradingName:
+  nin:
+    type: 'CNPJ'
+    value:
+  contact:
+  address:
+  commissions:
+
+seller_contact:
+  firstName: "Automatic"
+  lastName: "TestMST"
+  email: "52885296801@wannabe.com"
+  phone: "18525521663"
+  nin:
+    type: "CPF"
+    value: "52885296801"
+
+seller_address:
+  lineOne: "Rua Walmart Brasil"
+  lineTwo: "Andar 8"
+  number: "267"
+  neighborhood: "Tamboré"
+  district: "Alphaville"
+  country: "BRA"
+  city: "Barueri"
+  state: "SP"
+  postalCode: "06460000"
+
+seller_commissions:
+  -
+    trackingId: "1"
+    type: "FREIGHT"
+    value: 1440
+  -
+    trackingId: "2"
+    type: "FREIGHT"
+    value: 1440
+  -
+    trackingId: "3"
+    type: "FREIGHT"
+    value: 1440
+  -
+    trackingId: "4"
+    type: "FREIGHT"
+    value: 1440
+  -
+    trackingId: "1659"
+    type: "FREIGHT"
+    value: 1440
+  -
+    trackingId: "169"
+    type: "DEFAULTS"
+    value: 1440
+  -
+    trackingId: "1"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "2"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "12"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "13"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "14"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "15"
+    type: "CATEGORY"
+    value: 1440
+  -
+    trackingId: "16545"
+    type: "FREIGHT"
+    value: 1440

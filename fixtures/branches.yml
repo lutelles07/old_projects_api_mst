@@ -1,0 +1,26 @@
+branch:
+  vendor:
+  nin:
+    type: "CNPJ"
+    value:
+  companyName: "olist"
+  tradingName: "olist"
+  address:
+    lineOne: "East 55th Street"
+    lineTwo: "10th floor, room 702"
+    number: "276"
+    neighborhood: "Cole Valley"
+    district: "Sacoma"
+    country: "BRA"
+    state: "RJ"
+    city: "San Francisco"
+    postalCode: "04173160"
+  email:
+  bankName: "Itaú Unibanco S.A."
+  bankCode: "341"
+  bankAgency:
+    number: "12322"
+    digit: 6
+  bankCurrentAccount:
+    number: "06052"
+    digit: 2

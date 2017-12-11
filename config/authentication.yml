@@ -1,0 +1,35 @@
+qa:
+  stargate:
+    username: 'stargate'
+    password: 'ScoobyDoo9087'
+  mst:
+    username: 'ahoy'
+    password: '123456'
+  rabbit:
+    username: guest
+    password: guest
+  contractapi:
+    username: 'ahoyadmin'
+    password: '123456'
+
+local:
+  stargate:
+    username: 'stargate'
+    password: 'ScoobyDoo9087'
+  mst:
+    username: 'mst_jobs'
+    password: '123456'
+  rabbit:
+    username: guest
+    password: guest
+
+stg:
+  stargate:
+    username: 'stargate'
+    password: 'ScoobyDoo9087'
+  mst:
+    username: 'mst_jobs'
+    password: '123456'
+  rabbit:
+    username: guest
+    password: guest

@@ -1,0 +1,17 @@
+platforms:
+  trackingId: "PlatformAutomaticTest"
+  active: true
+  domain: "http://teste.com.br"
+  credentials:
+    username: "user"
+    password: "pass123"
+  sellerId: 
+  endpoints:
+
+endpoints:
+  -
+    url: "https://walmart.com/services/platforms"
+    type: "FULFILLMENT"
+  -
+    url: "https://walmart.com/services/platforms"
+    type: "PAYMENT_CONFIRMATION"

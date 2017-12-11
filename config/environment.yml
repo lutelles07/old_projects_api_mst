@@ -1,0 +1,24 @@
+qa:
+  stargate: 'https://stargate-services.qa.vmcommerce.intra'
+  mst: 'http://vip-mst.qa.vmcommerce.intra/'
+  contractapi: 'https://vip-mst-contracts.qa.vmcommerce.intra'
+  rabbit:
+    host: 'amqp://guest:guest@napsao-qa-nix-mst-rabbitmq-1.qa.vmcommerce.intra:5672'
+    exchangeName: 'mst.core.topic.seller'
+    queueName: 'mst.core.queue.seller.qa'
+local:
+  stargate: 'https://stargate-services.qa.vmcommerce.intra'
+  mst: 'http://localhost:15001/'
+
+stg:
+  stargate: 'https://stargate-services.stg.vmcommerce.intra'
+  mst:  'http://vip-mst.stg.vmcommerce.intra/'
+  contractapi: 'http://napsao-qa-nix-mst-contracts-1.qa.vmcommerce.intra'
+  rabbit:
+    host: 'amqp://guest:guest@napsao-stg-nix-mst-rabbitmq-1.stg.vmcommerce.intra:5672'
+    exchangeName: 'mst.core.topic.seller'
+    queueName: 'mst.core.queue.seller.stg'
+
+prod:
+  stargate: 'https://stargate-services.vmcommerce.intra'
+  mst:  'http://vip-mst.vmcommerce.intra/'

@@ -1,0 +1,67 @@
+---
+  trackingId: "madeiramadeira"
+  companyName: "M.I. REVESTIMENTOS LTDA"
+  tradingName: "MadeiraMadeira"
+  description: "Somos pioneiros e líderes na venda online de materiais de construção, acabamento e decoração. Nossa loja é referência no desenvolvimento de soluções para ajudar você a comprar tudo com muita praticidade, no conforto do seu lar.\r\n\r\nAqui você encontra tudo o que precisa para sua casa com preços atrativos e opções para os mais diversos estilos. Além disso, você pode contar com a nossa equipe de especialistas que está sempre pronta para atendê-lo."
+  nin: 
+    type: "CNPJ"
+    value: "10490181000135"
+  active: true
+  status: "SENT_TO_WWW5"
+  contact: 
+    firstName: "Daniel"
+    lastName: "Scandian"
+    nin: 
+      type: "CPF"
+      value: "22191788890"
+    email: "daniel.scandian@madeiramadeira.com.br"
+    phone: null
+  address: 
+    lineOne: "R JOAO ANGELO CORDEIRO"
+    lineTwo: null
+    number: "1465"
+    neighborhood: "BOM JESUS"
+    district: null
+    country: "BRA"
+    city: "SAO JOSE DOS PINHAIS"
+    state: "PR"
+    postalCode: "83025120"
+  commissions:
+    -
+      trackingId: "40"
+      type: "CATEGORY"
+      value: 2040
+    -
+      trackingId: "45"
+      type: "CATEGORY"
+      value: 2040
+  accounts: 
+    - 
+      bankName: "Banco do Brasil"
+      bankSwiftCode: null
+      bankCode: "1"
+      bankAgency: 
+        number: "926"
+        digit: null
+      bankCurrentAccount: 
+        number: "30777"
+        digit: 7
+      moipId: null
+  policies: 
+    - 
+      type: "DELIVERY"
+      value: "Esta transação está sujeita aos Termos e Condições de Uso do Walmart.com disponível na página inicial do site do Walmart."
+    - 
+      type: "PRIVACY"
+      value: "A Política de Privacidade do Walmart foi elaborada para reafirmar nosso compromisso com a privacidade e a segurança das informações que coletamos de nossos clientes e internautas.\r\n\r\nA presente política abrange o tratamento que o Walmart dá as informações capazes de identificar os usuários, sejam as coletadas diretamente neste Portal, sejam as armazenadas em sua base de dados eletrônica por outros meios de coleta, tais como cadastros preenchidos em meio físico ou consultas ao serviço de atendimento ao cliente.\r\n\r\nPara maiores detalhes, acesse \"Política de Privacidade\" no rodapé do site."
+    - 
+      type: "RETURN"
+      value: "Esta transação está sujeita aos Termos e Condições de Uso do Walmart.com disponível na página inicial do site do Walmart."
+  platforms:
+    -
+      trackingId: "PlatformAutomaticTest"
+      active: true
+      domain: "http://teste.com.br"
+      credentials:
+        username: "user"
+        password: "pass123"

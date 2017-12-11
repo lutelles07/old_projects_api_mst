@@ -1,0 +1,41 @@
+trackingId: 
+companyName:
+tradingName:
+nin:
+  type: 'CNPJ'
+  value:
+contact: 
+  firstName:
+  lastName:
+  email:
+  phone:         
+  nin:
+    type: "CPF"
+    value: 
+address: 
+  lineOne: "Rua Walmat"
+  lineTwo: "Next Carrefour"
+  number: "100"
+  neighborhood: "Centro"
+  district: "Nova Europa"
+  country: "BRA"
+  city: "São Paulo"
+  state: "SP"
+  postalCode: "13040089"
+contract: 
+  baseContract: 
+    id: 
+  trackingId: 
+  type: "BASE"
+  startsAt: "2015-03-29"
+commissions:
+  -
+    id: 61955
+    trackingId: "4699"
+    type: "CATEGORY"
+    value: 1500
+  -
+    id: 61954
+    trackingId: "70"
+    type: "CATEGORY"
+    value: 1440
